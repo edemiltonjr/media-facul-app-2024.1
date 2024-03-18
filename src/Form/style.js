@@ -29,6 +29,21 @@ const styles = StyleSheet.create({
         fontSize: 24,
         color: '#FFF',
         textAlign: 'center',
+    },
+    media: {
+        fontSize: 40,
+        textAlign: 'center',
+        backgroundColor: '#DDD',
+        padding: 10,
+        borderRadius: 10,
+    },
+    resultado: {
+        fontSize: 24,
+        textAlign: 'center',
+        backgroundColor: '#32CD32',
+        color: '#FFF',
+        padding: 10,
+        borderRadius: 10,
     }
 })
 
